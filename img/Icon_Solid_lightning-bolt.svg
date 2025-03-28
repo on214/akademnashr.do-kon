@@ -1,0 +1,13 @@
+<svg width="56.000000" height="56.000000" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip3_114">
+			<rect id="Icon/Solid/lightning-bolt" rx="0.000000" width="55.000000" height="55.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip3_114)">
+		<path id="Icon" d="M31.64 2.92C32.8 3.29 33.59 4.37 33.59 5.6L33.59 19.6L44.8 19.6C45.84 19.6 46.8 20.18 47.28 21.1C47.76 22.03 47.69 23.15 47.09 24L27.49 52C26.79 53 25.52 53.43 24.35 53.07C23.19 52.7 22.4 51.62 22.4 50.4L22.4 36.4L11.2 36.4C10.15 36.4 9.19 35.81 8.71 34.89C8.23 33.96 8.3 32.84 8.9 31.99L28.5 3.99C29.2 2.99 30.47 2.56 31.64 2.92Z" fill="#FF7500" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
