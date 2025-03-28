@@ -1,0 +1,325 @@
+body{
+    width: 100%;
+    height:2800px;
+}
+.icon{
+    margin-left: 170px;
+}
+.akademnashr{
+    margin-bottom: 18px;
+    margin-left: 12px;
+}
+.sahifa{
+    display: flex;
+}
+.bosh{
+    margin-left: 250px;
+    display: flex;
+    gap: 25px;
+    color: black;
+    margin-top: 25px;
+    font-family: 'Times New Roman';
+}
+.bosh7:hover{
+    color: orange;
+}
+.bosh5:hover{
+    color: orange;
+}
+.bosh6:hover{
+    color: orange;
+}
+.bosh8:hover{
+    color: orange;
+}
+.ruyxat{
+    color: white;
+    width: 150px;
+    height: 40px;
+    background: orange;
+    border: 0px;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-top: 15px;
+    margin-left: 25px;
+    font-family: 'Times New Roman';
+}
+.ruyxat:active{
+    transform: scale(0.9);
+    background: rgb(154, 101, 21);
+  
+}
+
+
+
+
+
+
+.qoravoy{
+    width: 1500px;
+    height: 450px;
+    background: black;
+    margin-top: 30px;
+    position: relative;
+    display: flex;
+}
+.ciziq{
+    width: 50px;
+    height: 5px;
+    position: absolute;
+    background: orange;
+    margin-top: 50px;
+    margin-left: 170px;
+}
+.python{
+    position: absolute;
+    color: white;
+    font-size: 45px;
+    width: 380px;
+    margin-top: 100px;
+    margin-left: 170px;
+    font-family: 'Times New Roman';
+
+}
+.dastur{
+    width: 350px;
+    color:white;
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 170px;
+    font-family: 'Times New Roman';
+
+}
+.Buyurtma{
+    width: 130px;
+    height: 40px;
+    position: absolute;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    background: rgb(255, 153, 0);
+    margin-top: 330px;
+    margin-left: 170px;
+}
+.Buyurtma:active{
+    transform: scale(0.9);
+    background: rgb(154, 101, 21);
+  
+}
+.python-book{
+    position: absolute;
+    width: 510px;
+    height: 510px;
+    margin-left: 850px;
+    margin-top: 40px;
+}
+.qutqar{
+    width: 23px;
+    height: 25px;
+    background: rgb(0, 0, 0);
+    margin-left: 1337px;
+    position: absolute;
+    margin-top: 40px;
+}
+
+
+
+
+
+
+
+
+.ciziq2{
+    width: 50px;
+    height: 5px;
+    background: orange;
+    margin-top: 150px;
+    margin-left: 170px;
+}
+.Nega{
+    width: 400px;
+    font-size: 50px;  
+    margin-left: 170px;
+    margin-top: 30px;
+    font-family: 'Times New Roman';
+    font-weight: 900;
+}
+.bulim2ichi{
+    display: flex;
+    gap: 350px;
+    margin-left: 170px;
+    margin-top: 100px;
+}
+.cursor{
+    width: 30px;
+    height: 30px;  
+    margin-left: 25px;
+    margin-top: 22px;
+}
+.cursor1{
+    width: 80px;
+    height: 80px;
+    background: rgb(255, 231, 186);
+    border-radius: 100%;
+}
+.bulim2ichii{
+    display: flex;
+    gap: -10px;
+}
+.oson{
+    width: 250px;
+    height: 150px;
+    margin-left: 170px;
+    margin-top: 40px; 
+}
+.oson h4{
+    font-size: 23px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.qoravoy2{
+    width: 1200px;
+    height: 450px;
+    background: black;
+    margin-top: 250px;
+    position: relative;
+    display: flex;
+    margin-left: 160px;
+    border-radius: 25px;
+}
+.bolalar{
+    position: absolute;
+    color: white;
+    font-size: 45px;
+    width: 450px;
+    margin-top: 80px;
+    margin-left: 70px;
+    font-family: 'Times New Roman';
+
+}
+.ertak{
+    width: 400px;
+    color:white;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 70px;
+    font-family: 'Times New Roman';
+
+}
+.Buyurtma1{
+    width: 150px;
+    height: 40px;
+    position: absolute;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    background: rgb(255, 153, 0);
+    margin-top: 330px;
+    margin-left: 70px;
+}
+.Buyurtma1:active{
+    transform: scale(0.9);
+    background: rgb(154, 101, 21);
+  
+}
+.book{
+    position: absolute;
+    width: 450px;
+    height: 480px;
+    margin-left: 670px;
+    margin-top: -100px;
+}
+.qutqar{
+    width: 23px;
+    height: 25px;
+    background: rgb(0, 0, 0);
+    margin-left: 1337px;
+    position: absolute;
+    margin-top: 40px;
+}
+.aksiya{
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+.past1{
+    width: 1500px;
+    height: 500px;
+    background: rgb(223, 223, 223);
+    margin-top: 200px;
+}
+
+.past{
+    display: flex;
+}
+.icon1{
+    margin-left: 170px;
+  padding-top: 55px;
+}
+.akademnashr1{
+    margin-bottom: 18px;
+    margin-left: 12px;
+}
+.tgfcins{
+    margin-top: 70px;
+    margin-left: 800px;
+
+}
+.fece{
+    margin-left: 20px;
+}
+.inst{
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.tg:hover{
+    background-color: orange;
+    border-radius: 100%;
+    
+ }
+ 
+.fece:hover{
+   background-color: orange;
+}
+.inst:hover{
+    background-color: orange;
+ }
+ 
+
+
+.chiziq{
+    width: 1150px;
+    height: 2px;
+    opacity: 60%;
+    background: black;
+    margin-left: -1150px;
+    margin-top: 180px;
+}
+.hollar{
+    display: flex;
+    gap: 100px;
+    margin-left: 130px;  
+   margin-top: 50px;
+
+}
+.lu:hover{
+    color: rgb(255, 153, 0);
+
+}
